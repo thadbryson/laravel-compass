@@ -15,9 +15,9 @@
     }],
     "repositories": [
         {
-	    "type": "path", 
-	    "url": "../fork-documentarian"
-	}
+            "type": "path",
+            "url": "../fork-documentarian"
+        }
     ],
     "require": {
         "php": "^7.3|^8.0",
